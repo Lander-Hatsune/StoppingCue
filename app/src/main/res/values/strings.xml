@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stopping Cue</string>
+    <string name="nought">N/A</string>
+    <string name="tip">Time to pause and switch</string>
+    <string name="tip_residence">Stopping Cue is timing</string>
+    <string name="channel_name">"Stopping Cue" notification channel</string>
+    <string name="channel_description">notification channel for "Stopping Cue"</string>
+</resources>
